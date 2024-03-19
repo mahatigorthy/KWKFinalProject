@@ -1,0 +1,28 @@
+body {
+  background-color: lightyellow; 
+}
+
+self-care-quote
+a { 
+  padding: 10px;
+  padding-left: 5px;
+  padding-right: 5px;
+  font-size: 20px;
+  color: cornflowerblue;
+}
+nav a { 
+  /* background-image: linear-gradient(blue, orange, white);  */
+  padding: 10px;
+  padding-left: 5px;
+  padding-right: 5px;
+  font-size: 20px;
+}
+
+nav {
+  display: flex; 
+  justify-content: flex-end;
+
+}
+a:hover { 
+  background-color: #add8e6;
+}
